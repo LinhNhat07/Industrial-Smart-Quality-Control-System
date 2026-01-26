@@ -1,0 +1,1 @@
+# Industrial-Smart-Quality-Control-System
