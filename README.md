@@ -1,8 +1,4 @@
-# Industrial-Smart-Quality-Control-System
-
 ## 💡 Industrial & Real-world Projects
-
-# 🏭 Industrial Smart Quality Control System
 
 # 🏭 Industrial Smart Quality Control System
 
