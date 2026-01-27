@@ -5,6 +5,7 @@
 ## 📌 Tổng quan dự án (Project Overview)
 Hệ thống kiểm soát chất lượng thông minh (Smart QC) ứng dụng trí tuệ nhân tạo để tự động hóa quy trình kiểm tra ngoại quan trên **băng chuyền sản xuất thực tế**. Hệ thống được thiết kế để hoạt động 24/7, thu thập dữ liệu thực tế và đưa ra quyết định loại bỏ sản phẩm lỗi ngay trên các thiết bị Edge Computing.
 
+## Demo: [https://drive.google.com/drive/folders/1eB9T30dr32sdrMfVHRAxU4xskb_FIG_o?usp=drive_link](https://drive.google.com/drive/folders/1SxIDtwbnsQlO3FvqJkyTdKspGBzYx1n4?usp=drive_link)
 ---
 
 # 🏭 Industrial Smart Quality Control System
@@ -118,5 +119,3 @@ Hệ thống ưu tiên chỉ số **Precision** (Độ chính xác xác nhận) 
 | **Môi trường** | **Băng chuyền thực tế** | Chịu được các tác động môi trường nhà xưởng |
 
 ---
-
-### Demo: [https://drive.google.com/drive/folders/1eB9T30dr32sdrMfVHRAxU4xskb_FIG_o?usp=drive_link](https://drive.google.com/drive/folders/1SxIDtwbnsQlO3FvqJkyTdKspGBzYx1n4?usp=drive_link)
