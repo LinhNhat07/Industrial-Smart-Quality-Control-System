@@ -119,4 +119,4 @@ Hệ thống ưu tiên chỉ số **Precision** (Độ chính xác xác nhận) 
 
 ---
 
-### Demo: https://drive.google.com/drive/folders/1eB9T30dr32sdrMfVHRAxU4xskb_FIG_o?usp=drive_link
+### Demo: [https://drive.google.com/drive/folders/1eB9T30dr32sdrMfVHRAxU4xskb_FIG_o?usp=drive_link](https://drive.google.com/drive/folders/1SxIDtwbnsQlO3FvqJkyTdKspGBzYx1n4?usp=drive_link)
