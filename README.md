@@ -114,7 +114,7 @@ Hệ thống ưu tiên chỉ số **Precision** (Độ chính xác xác nhận) 
 
 | Chỉ số | Giá trị mục tiêu | Ghi chú |
 | :--- | :--- | :--- |
-| **Precision** | **0.85 - 0.93** | Đảm bảo tính tin cậy của quyết định loại bỏ |
+| **Precision** | **0.85 - 0.99** | Đảm bảo tính tin cậy của quyết định loại bỏ |
 | **Tốc độ xử lý** | **< 30ms / sản phẩm** | Đã tối ưu qua TensorRT Engine |
 | **Môi trường** | **Băng chuyền thực tế** | Chịu được các tác động môi trường nhà xưởng |
 
